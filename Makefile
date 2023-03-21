@@ -57,3 +57,4 @@ uninstall-old:
 	rm -f /usr/share/man/man5/ytfzf.5*
 
 .PHONY: all default install uninstall doc addons uninstall-old
+second commit
